@@ -6,4 +6,4 @@ This repo contains my Jupyter Notebook files and projects that I have worked on 
 - UK Covid Death Prediction (XGBoost regression)
 - South Korea MERs Fatality Rate Analysis (Logistic regression)
 - Visualisation for SEIR modelling in Matlab of South Korea MERs case count
-- 
+- Investigating the effects of female labour on GDP in Asian countries (fixed effects regression, 2SLS)
